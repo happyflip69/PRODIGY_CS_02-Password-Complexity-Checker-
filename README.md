@@ -1,0 +1,3 @@
+Password Complexity Checker
+This project features a Password Complexity Checker implemented in Python. The tool evaluates the strength of passwords based on predefined criteria and provides a textual assessment of the password's security. It checks factors such as length, the presence of uppercase letters, lowercase letters, numbers, and special characters. The program categorizes passwords into different strength levels: weak, moderate, and strong, providing feedback to guide users toward creating more secure passwords. The checker is designed to be straightforward and easy to integrate into larger applications, offering essential functionality for improving password security through Python’s robust text-processing capabilities.
+
